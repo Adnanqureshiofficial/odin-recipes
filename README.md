@@ -1,2 +1,2 @@
 # odin-recipes
-This is the first project we are creating using merely html that we have learned from the odin project
+This is the first project I have created using merely html that I have learned from the odin project.
